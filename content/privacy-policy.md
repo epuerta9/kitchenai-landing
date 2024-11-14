@@ -1,7 +1,7 @@
 +++
 title = 'Privacy'
 date = 2024-10-25T14:40:26-05:00
-draft = true
+draft = false
 +++
 
 

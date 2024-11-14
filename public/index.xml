@@ -2,71 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>kitchenai blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.kitchenai.dev/</link>
     <description>Recent content on kitchenai blog</description>
     <image>
       <title>kitchenai blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.kitchenai.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.kitchenai.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.5</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2024 11:49:29 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Multi Agent Workflows</title>
-      <link>http://localhost:1313/posts/multi-agent-workflows/</link>
-      <pubDate>Thu, 14 Nov 2024 11:49:29 -0600</pubDate>
-      <guid>http://localhost:1313/posts/multi-agent-workflows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Power of Object Index Llama Index</title>
-      <link>http://localhost:1313/posts/power-of-object-index-llama-index/</link>
-      <pubDate>Thu, 14 Nov 2024 11:47:32 -0600</pubDate>
-      <guid>http://localhost:1313/posts/power-of-object-index-llama-index/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Toolhouseai Agentic Tools</title>
-      <link>http://localhost:1313/posts/toolhouseai-agentic-tools/</link>
-      <pubDate>Thu, 14 Nov 2024 11:47:12 -0600</pubDate>
-      <guid>http://localhost:1313/posts/toolhouseai-agentic-tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kitchenai Whats New</title>
-      <link>http://localhost:1313/posts/kitchenai-whats-new/</link>
-      <pubDate>Thu, 14 Nov 2024 11:46:49 -0600</pubDate>
-      <guid>http://localhost:1313/posts/kitchenai-whats-new/</guid>
-      <description>What&amp;rsquo;s new </description>
-    </item>
-    <item>
-      <title>Transformations on Rag Ingest</title>
-      <link>http://localhost:1313/posts/transformations-on-rag-ingest/</link>
-      <pubDate>Thu, 14 Nov 2024 11:46:14 -0600</pubDate>
-      <guid>http://localhost:1313/posts/transformations-on-rag-ingest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloudflare Observability</title>
-      <link>http://localhost:1313/posts/cloudflare-observability/</link>
-      <pubDate>Thu, 14 Nov 2024 11:45:40 -0600</pubDate>
-      <guid>http://localhost:1313/posts/cloudflare-observability/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My New Post</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
-      <pubDate>Fri, 25 Oct 2024 15:08:15 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Fri, 25 Oct 2024 14:40:26 -0500</lastBuildDate>
+    <atom:link href="https://blog.kitchenai.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
+      <link>https://blog.kitchenai.dev/privacy-policy/</link>
       <pubDate>Fri, 25 Oct 2024 14:40:26 -0500</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
+      <guid>https://blog.kitchenai.dev/privacy-policy/</guid>
       <description>Privacy Policy for KitchenAI
 Last Updated: [10/24/2024]
 OctoIQ LLC (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) values your privacy and is committed to transparency regarding the data we collect—or, in this case, do not collect. This Privacy Policy (“Policy”) explains how we handle information when you use KitchenAI, an open-source project developed by OctoIQ LLC.
