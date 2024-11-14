@@ -2,6 +2,7 @@ baseURL: "https://blog.kitchenai.dev/"
 title: kitchenai blog
 paginate: 5
 theme: PaperMod
+relativeURLs: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -59,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: KitchenAI Blog
-    subtitle: "A faster way to build and share AI cookbooks"
+    subtitle: "A faster way to build and share AI backends"
     imageUrl: "/logo.png"
     imageWidth: 120
     imageHeight: 120
@@ -74,7 +75,7 @@ params:
   homeInfoParams:
     Title: "KitchenAI Blog"
     Content: |
-      A faster way to build and share AI cookbooks
+      A faster way to build and share AI backends
 
   socialIcons:
     - name: x
